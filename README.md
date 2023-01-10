@@ -1,15 +1,19 @@
 
 About:
-
 This case study aims to understand more about user behavior when booking hotels on an online platform with multiple advertisers. 
 For data protection purposes, the platform name has been replaced by "Company" and advertisers on the platform are represented by numeric keys
 
-Content:
 
+
+
+Content:
 Python notebook with EDA
 
 Link with dataset:
 https://drive.google.com/file/d/1G-u93Mx3v-XbjwIu9CWNJcf8oWOSa1GC/view?usp=share_link
+
+
+
 
 Dataset general description:
 
